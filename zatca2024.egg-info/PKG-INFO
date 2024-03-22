@@ -1,0 +1,7 @@
+Metadata-Version: 2.1
+Name: zatca2024
+Version: 0.0.1
+Summary: zatca2024
+Author: Husna
+Author-email: support@erpgulf.com
+Requires-Dist: frappe
